@@ -80,3 +80,4 @@ Presentation & Reporting	            PowerPoint
 
 
 The dataset (Bright Coffee Shop Sales) contains 149,116 transactions with the following fields:
+transaction_idUnique identifier for each transactiontransaction_dateDate of the transactiontransaction_timeTime of the transactiontransaction_qtyQuantity of items purchasedstore_idUnique identifier for the storestore_locationName/location of the storeproduct_idUnique identifier for the productunit_pricePrice per unit of the productproduct_categoryProduct category (Coffee, Tea, Bakery, etc.)product_typeProduct type within the categoryproduct_detail
